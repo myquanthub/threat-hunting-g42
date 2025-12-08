@@ -1,0 +1,5 @@
+"Hi G42 Security – live Azure Sentinel threat hunting for UAE gov. 
+I built a full NESA AM-05 workbook with KQL to catch brute-force on G42 assets. 
+Deployed in India Central free tier. 
+Full code + proof in repo. 
+Targeting 45K+ AED Cloud Sec Lead – open to chat?"
